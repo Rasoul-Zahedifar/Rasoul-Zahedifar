@@ -48,7 +48,7 @@
   <a href="https://www.docker.com" target="_blank" rel="noreferrer"> <img src="https://liashchynskyi.net/static/09cd28347983de7287a1af0792371087/moby-logo.png" alt="cplusplus" width="40" height="40"/> </a>
   <a href="https://opencv.org" target="_blank" rel="noreferrer"> <img src="https://github.com/opencv/opencv/wiki/logo/OpenCV_logo_no_text.png" alt="cplusplus" width="40" height="40"/> </a>
   <a href="https://www.langchain.com" target="_blank" rel="noreferrer"> <img src="https://uploads.sitepoint.com/wp-content/uploads/2023/10/1696379444langchain-logo-lg.jpg" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://huggingface.co" target="_blank" rel="noreferrer"> <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png" alt="cplusplus" width="40" height="40"/> </a>
+  <a href="https://huggingface.co" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/H/hugging-face-icon-logo-48117F3DCE-seeklogo.com.png" alt="cplusplus" width="40" height="40"/> </a>
   </p>
 
 
