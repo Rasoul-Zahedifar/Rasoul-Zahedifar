@@ -1,16 +1,6 @@
-<div style="display: flex; align-items: center;">
-  <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=Rasoul-Zahedifar&label=Profile%20views&color=0e75b6&style=flat" alt="Rasoul-Zahedifar" />
-  </p>
-  <div style="margin-left: 20px; text-align: center;">
-    <h1 style="display: inline-block; margin: 0;">Hi, I'm Rasoul<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
-    <h3 style="font-size: 20px; margin: 0;">A Passionate AI Developer and a Robotics Lover.</h3>
-  </div>
-</div>
-
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rasoul-Zahedifar&label=Profile%20views&color=0e75b6&style=flat" alt="Rasoul-Zahedifar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rasoul-Zahedifar&label=Profile%20views&color=0e75b6&style=flat" alt="Rasoul-Zahedifar" /> </p>
 <h1 align="center">Hi, I'm Rasoul<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
-<h3 font-size="20" align="center">A Passionate AI Developer and a Robotics Lover.</h3> -->
+<h3 font-size="20" align="center">A Passionate AI Developer and a Robotics Lover.</h3>
 
 <div align="center">
 
@@ -25,8 +15,8 @@
 🔭 &nbsp;I'm planning to work more on AI and Robotics.\
 ✍️ &nbsp;In my free time, I read biography books and play computer games.\
 ✉️ &nbsp;You can find me at rasoul.zahedifar75@gmail.com and I reach out to you ASAP.\
-\indent \makebox[0pt][l]{\hspace{-\parindent}📄} &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1LsfMKM54KkvrzqivPt0T8qcPb05IwZsg/view?usp=drive_link) for more details about me. I'm open to feedback and suggestions!\
-\indent \makebox[0pt][l]{\hspace{-\parindent}⚡} &nbsp;My love for learning AI is so deep that my brain's neural networks have started debating whether they should form a union!
+📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1LsfMKM54KkvrzqivPt0T8qcPb05IwZsg/view?usp=drive_link) for more details about me. I'm open to feedback and suggestions!\
+⚡ &nbsp;My love for learning AI is so deep that my brain's neural networks have started debating whether they should form a union!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
