@@ -1,6 +1,14 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rasoul-Zahedifar&label=Profile%20views&color=0e75b6&style=flat" alt="Rasoul-Zahedifar" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Rasoul-Zahedifar&label=Profile%20views&color=0e75b6&style=flat" alt="Rasoul-Zahedifar" />
+  <span align="center" style="display: inline-block; vertical-align: middle;">
+    <h1 align="center" style="display: inline-block;">Hi, I'm Rasoul<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
+    <h3 font-size="20" align="center" style="display: inline-block;">A Passionate AI Developer and a Robotics Lover.</h3>
+  </span>
+</p>
+
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rasoul-Zahedifar&label=Profile%20views&color=0e75b6&style=flat" alt="Rasoul-Zahedifar" /> </p>
 <h1 align="center">Hi, I'm Rasoul<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
-<h3 font-size="20" align="center">A Passionate AI Developer and a Robotics Lover.</h3>
+<h3 font-size="20" align="center">A Passionate AI Developer and a Robotics Lover.</h3> -->
 
 <div align="center">
 
@@ -15,8 +23,8 @@
 🔭 &nbsp;I'm planning to work more on AI and Robotics.\
 ✍️ &nbsp;In my free time, I read biography books and play computer games.\
 ✉️ &nbsp;You can find me at rasoul.zahedifar75@gmail.com and I reach out to you ASAP.\
-📄 &nbsp;Please have a look at my [Résumé]() for more details about me. I'm open to feedback and        suggestions!\
-⚡ &nbsp;My love for learning AI is so deep that my brain's neural networks have started debating whether they should form a union!
+\indent \makebox[0pt][l]{\hspace{-\parindent}📄} &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1LsfMKM54KkvrzqivPt0T8qcPb05IwZsg/view?usp=drive_link) for more details about me. I'm open to feedback and suggestions!\
+\indent \makebox[0pt][l]{\hspace{-\parindent}⚡} &nbsp;My love for learning AI is so deep that my brain's neural networks have started debating whether they should form a union!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -42,13 +50,13 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/archive/c/c3/20220821153136%21Python-logo-notext.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://www.mathworks.com" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/373830/matlab.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://www.docker.com" target="_blank" rel="noreferrer"> <img src="https://liashchynskyi.net/static/09cd28347983de7287a1af0792371087/moby-logo.png" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://opencv.org" target="_blank" rel="noreferrer"> <img src="https://github.com/opencv/opencv/wiki/logo/OpenCV_logo_no_text.png" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://www.langchain.com" target="_blank" rel="noreferrer"> <img src="https://uploads.sitepoint.com/wp-content/uploads/2023/10/1696379444langchain-logo-lg.jpg" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://huggingface.co" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/H/hugging-face-icon-logo-48117F3DCE-seeklogo.com.png" alt="cplusplus" width="40" height="40"/> </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/archive/c/c3/20220821153136%21Python-logo-notext.svg" alt="cplusplus" width="40" height="40"/></a>&nbsp;
+  <a href="https://www.mathworks.com" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/373830/matlab.svg" alt="cplusplus" width="40" height="40"/></a>&nbsp;
+  <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="cplusplus" width="40" height="40"/></a>&nbsp;
+  <a href="https://www.docker.com" target="_blank" rel="noreferrer"> <img src="https://liashchynskyi.net/static/09cd28347983de7287a1af0792371087/moby-logo.png" alt="cplusplus" width="40" height="40"/></a>&nbsp;
+  <a href="https://opencv.org" target="_blank" rel="noreferrer"> <img src="https://github.com/opencv/opencv/wiki/logo/OpenCV_logo_no_text.png" alt="cplusplus" width="40" height="40"/></a>&nbsp;
+  <a href="https://www.langchain.com" target="_blank" rel="noreferrer"> <img src="https://uploads.sitepoint.com/wp-content/uploads/2023/10/1696379444langchain-logo-lg.jpg" alt="cplusplus" width="40" height="40"/></a>&nbsp;
+  <a href="https://huggingface.co" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/H/hugging-face-icon-logo-48117F3DCE-seeklogo.com.png" alt="cplusplus" width="40" height="40"/></a>&nbsp;
   </p>
 
 
