@@ -69,11 +69,12 @@ var Rasoul = { // I am a variable rather than a constant.
     tools: ["Git", "Docker", "OpenCV", "LangChain", "Huggingface"],
     askMeAbout: ["Machine Learning",
                  "Deep Learning",
-                 "Reinforcement Learning",
                  "Large Language Models",
+                 "Reinforcement Learning",
                  "Robotics and Nonlinear Control",
                  ],
     technologies: {
+        Language_Models : [],
         AI_and_Robotics: [],
         Deep_Meta_RL: [],
         database: "MySQL"
