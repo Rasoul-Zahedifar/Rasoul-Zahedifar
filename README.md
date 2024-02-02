@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Rasoul-Zahedifar.Rasoul-Zahedifar">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?Rasoul-Zahedifar=Rasoul-Zahedifar">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
