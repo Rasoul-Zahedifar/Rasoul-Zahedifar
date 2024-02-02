@@ -1,10 +1,12 @@
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Rasoul-Zahedifar&label=Profile%20views&color=0e75b6&style=flat" alt="Rasoul-Zahedifar" />
-  <span align="center" style="display: inline-block; vertical-align: middle;">
-    <h1 align="center" style="display: inline-block;">Hi, I'm Rasoul<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
-    <h3 font-size="20" align="center" style="display: inline-block;">A Passionate AI Developer and a Robotics Lover.</h3>
-  </span>
-</p>
+<div style="display: flex; align-items: center;">
+  <p align="left">
+    <img src="https://komarev.com/ghpvc/?username=Rasoul-Zahedifar&label=Profile%20views&color=0e75b6&style=flat" alt="Rasoul-Zahedifar" />
+  </p>
+  <div style="margin-left: 20px; text-align: center;">
+    <h1 style="display: inline-block; margin: 0;">Hi, I'm Rasoul<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
+    <h3 style="font-size: 20px; margin: 0;">A Passionate AI Developer and a Robotics Lover.</h3>
+  </div>
+</div>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rasoul-Zahedifar&label=Profile%20views&color=0e75b6&style=flat" alt="Rasoul-Zahedifar" /> </p>
 <h1 align="center">Hi, I'm Rasoul<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
@@ -59,7 +61,7 @@
   <a href="https://huggingface.co" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/H/hugging-face-icon-logo-48117F3DCE-seeklogo.com.png" alt="cplusplus" width="40" height="40"/></a>&nbsp;
   </p>
 
-
+</div>
 A little more about me...
 
 ```javascript
