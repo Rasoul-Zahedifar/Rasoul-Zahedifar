@@ -1,7 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Rasoul-Zahedifar">
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Rasoul+Zahedifar...;A+Passionate+AI+Developer;And+a+Robotics+Lover+🙋🏻‍♂️;Nice+to+meet+you!&center=true&size=27">
   </a>
 </h1>
