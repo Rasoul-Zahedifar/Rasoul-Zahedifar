@@ -1,9 +1,5 @@
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Rasoul-Zahedifar&label=Profile%20views&color=0e75b6&style=flat" alt="Rasoul-Zahedifar" />
-</p>
-
-<h1 align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hi, I'm Rasoul<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
-
+![Profile Views](https://komarev.com/ghpvc/?username=Rasoul-Zahedifar&label=Profile%20views&color=0e75b6&style=flat) 
+# Hi, I'm Rasoul <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">
 
 <h3 font-size="20" align="center">A Passionate AI Developer and a Robotics Lover.</h3>
 
