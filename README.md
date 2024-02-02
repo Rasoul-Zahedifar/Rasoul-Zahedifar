@@ -3,7 +3,6 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Rasoul+Zahedifar...;A+Passionate+AI+Developer;And+a+Robotics+Lover+🙋🏻‍♂️;Nice+to+meet+you!&center=true&size=27">
   </a>
-</h1>
 
 <div align="center">
 
