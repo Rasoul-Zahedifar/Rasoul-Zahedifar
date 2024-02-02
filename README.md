@@ -6,7 +6,7 @@
 
 <div align="center">
 
-![header](https://cdn.dribbble.com/users/359830/screenshots/6946934/background-meet-tom_2.gif)
+<img src="https://cdn.dribbble.com/users/359830/screenshots/6946934/background-meet-tom_2.gif" alt="header" height="150" />
 
 </div>
 
