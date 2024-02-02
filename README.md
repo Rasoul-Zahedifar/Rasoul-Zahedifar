@@ -22,20 +22,23 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/rasoul-zahedifar/?locale=fr_FR" target="blank"><img align="center"
       src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg"
-      alt="adam pithewan" height="40" width="40" /></a>
+      alt="adam pithewan" height="40" width="40" /></a>&nbsp;
   <a href="https://www.instagram.com/rasoul_zahedifar/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="adam pithen wala" height="40" width="40" /></a>
+      alt="adam pithen wala" height="40" width="40" /></a>&nbsp;
   <a href="https://t.me/Rasoul_Zahedifar" target="blank"><img align="center"
       src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"
-      alt="adam pithen wala" height="40" width="40" /></a>
+      alt="adam pithen wala" height="40" width="40" /></a>&nbsp;
+  <a href="https://join.skype.com/invite/lJf42wJCDXCI" target="blank"><img align="center"
+      src="https://upload.wikimedia.org/wikipedia/commons/6/60/Skype_logo_%282019%E2%80%93present%29.svg"
+      alt="adam pithen wala" height="40" width="40" /></a>&nbsp;
   <a href="https://www.researchgate.net/profile/Rasoul-Zahedifar" target="blank"><img align="center"
       src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg"
-      alt="adam pithen wala" height="40" width="40" /></a>
+      alt="adam pithen wala" height="40" width="40" /></a>&nbsp;
   <a href="https://scholar.google.com/citations?user=ibJMn_YAAAAJ&hl=en" target="blank"><img align="center"
       src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg"
-      alt="adam pithen wala" height="40" width="40" /></a>
- <a href="https://orcid.org/0000-0002-7821-0185" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" alt="11318161" height="40" width="40" /></a>
+      alt="adam pithen wala" height="40" width="40" /></a>&nbsp;
+ <a href="https://orcid.org/0000-0002-7821-0185" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" alt="11318161" height="40" width="40" /></a>&nbsp;
 <div align="center">
 </div>
 
