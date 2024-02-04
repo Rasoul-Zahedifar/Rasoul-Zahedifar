@@ -54,7 +54,7 @@
   <a href="https://opencv.org" target="_blank" rel="noreferrer"> <img src="https://github.com/opencv/opencv/wiki/logo/OpenCV_logo_no_text.png" alt="cplusplus" width="40" height="40"/></a>&nbsp;
   <a href="https://huggingface.co" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/H/hugging-face-icon-logo-48117F3DCE-seeklogo.com.png" alt="cplusplus" width="40" height="40"/></a>&nbsp;
   <a href="https://www.langchain.com" target="_blank" rel="noreferrer"> <img src="https://uploads.sitepoint.com/wp-content/uploads/2023/10/1696379444langchain-logo-lg.jpg" alt="cplusplus" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.llamaindex.ai/" target="_blank" rel="noreferrer"> <img src="https://assets.zilliz.com/llama_Index_v3_d2f764ca91.png" alt="cplusplus" width="40" height="40"/></a>&nbsp;
+<!--   <a href="https://www.llamaindex.ai/" target="_blank" rel="noreferrer"> <img src="https://assets.zilliz.com/llama_Index_v3_d2f764ca91.png" alt="cplusplus" width="40" height="40"/></a>&nbsp; -->
   </p>
 
 </div>
