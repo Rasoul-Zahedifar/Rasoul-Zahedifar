@@ -17,7 +17,7 @@
 🔭 &nbsp;I'm planning to work more on AI and Robotics.\
 ✍️ &nbsp;In my free time, I read biography books and play computer games.\
 ✉️ &nbsp;You can find me at rasoul.zahedifar75@gmail.com and I reach out to you ASAP.\
-📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1LsfMKM54KkvrzqivPt0T8qcPb05IwZsg/view?usp=drive_link) for more details about me. I'm open to feedback and suggestions!\
+📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/19UluhC2GVUmrwvcGnbR-u5IgkrlGH1HF/view?usp=drive_link) for more details about me. I'm open to feedback and suggestions!\
 ⚡ &nbsp;My love for learning AI is so deep that my brain's neural networks have started debating whether they should form a union!
 
 <h3 align="left">Connect with me:</h3>
