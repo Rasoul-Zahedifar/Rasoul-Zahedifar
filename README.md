@@ -53,7 +53,7 @@
   <a href="https://www.docker.com" target="_blank" rel="noreferrer"> <img src="https://liashchynskyi.net/static/09cd28347983de7287a1af0792371087/moby-logo.png" alt="cplusplus" width="40" height="40"/></a>&nbsp;
   <a href="https://opencv.org" target="_blank" rel="noreferrer"> <img src="https://github.com/opencv/opencv/wiki/logo/OpenCV_logo_no_text.png" alt="cplusplus" width="40" height="40"/></a>&nbsp;
   <a href="https://huggingface.co" target="_blank" rel="noreferrer"> <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.42.0/files/dark/huggingface-color.png" alt="cplusplus" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.langchain.com" target="_blank" rel="noreferrer"> <img src="https://api.nuget.org/v3-flatcontainer/langchain.core/0.17.0/icon" alt="cplusplus" width="40" height="40"/></a>&nbsp;
+  <a href="https://www.langchain.com" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/983b2c188da8df94d530680540548bc1da9f58e9efa18cb481328893f14d50f3/68747470733a2f2f6173736574732d676c6f62616c2e776562736974652d66696c65732e636f6d2f3632303362366435373832333130303834376566643962312f3635663431353935643337663533663731376464316636395f6c616e67636861696e25323069636f6e2e706e67" alt="cplusplus" width="40" height="40"/></a>&nbsp;
 <!--   <a href="https://www.llamaindex.ai/" target="_blank" rel="noreferrer"> <img src="https://assets.zilliz.com/llama_Index_v3_d2f764ca91.png" alt="cplusplus" width="40" height="40"/></a>&nbsp; -->
   </p>
 
