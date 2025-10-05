@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Rasoul-Zahedifar">
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This%20is%20Rasoul%20Zahedifar...;A+Passionate+AI+Developer;And+a+Robotics+Lover+🙋🏻‍♂️;Nice+to+meet+you!&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Rasoul+Zahedifar...;A+Passionate+AI+Developer;And+a+Robotics+Lover+🙋🏻‍♂️;Nice+to+meet+you!&center=true&size=24&width=900&duration=3000">
   </a>
 
 <div align="center">
