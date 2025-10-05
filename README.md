@@ -92,7 +92,6 @@ var Rasoul = { // I am a variable rather than a constant.
 
 ![Followers](https://img.shields.io/github/followers/Rasoul-Zahedifar?style=social)
 ![Stars](https://img.shields.io/github/stars/Rasoul-Zahedifar?style=social)
-![GitHub Repo stars](https://img.shields.io/github/stars/Rasoul-Zahedifar?style=social)
 
 <div align="center">
 
