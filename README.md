@@ -53,7 +53,7 @@
   <a href="https://www.docker.com" target="_blank" rel="noreferrer"> <img src="https://liashchynskyi.net/static/09cd28347983de7287a1af0792371087/moby-logo.png" alt="cplusplus" width="40" height="40"/></a>&nbsp;
   <a href="https://opencv.org" target="_blank" rel="noreferrer"> <img src="https://github.com/opencv/opencv/wiki/logo/OpenCV_logo_no_text.png" alt="cplusplus" width="40" height="40"/></a>&nbsp;
   <a href="https://huggingface.co" target="_blank" rel="noreferrer"> <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.42.0/files/dark/huggingface-color.png" alt="cplusplus" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.langchain.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/langchain-color.png" alt="cplusplus" width="40" height="40"/></a>&nbsp;
+  <a href="https://www.langchain.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/langchain-color.png" alt="cplusplus" width="40" height="80"/></a>&nbsp;
 <!--   <a href="https://www.llamaindex.ai/" target="_blank" rel="noreferrer"> <img src="https://assets.zilliz.com/llama_Index_v3_d2f764ca91.png" alt="cplusplus" width="40" height="40"/></a>&nbsp; -->
   </p>
 
