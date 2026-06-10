@@ -54,7 +54,7 @@
   <a href="https://opencv.org" target="_blank" rel="noreferrer"> <img src="https://github.com/opencv/opencv/wiki/logo/OpenCV_logo_no_text.png" alt="cplusplus" width="40" height="40"/></a>&nbsp;
   <a href="https://huggingface.co" target="_blank" rel="noreferrer"> <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.42.0/files/dark/huggingface-color.png" alt="cplusplus" width="40" height="40"/></a>&nbsp;
   <a href="https://www.langchain.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/langchain-color.png" alt="cplusplus" width="40" height="120"/></a>&nbsp;
-<!--   <a href="https://www.llamaindex.ai/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/langchain-color.png" alt="cplusplus" width="40" height="20"/></a>&nbsp; -->
+<!--   <a href="https://www.llamaindex.ai/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/langchain-color.png" alt="cplusplus" width="40" height="4"/></a>&nbsp; -->
   </p>
 
 </div>
