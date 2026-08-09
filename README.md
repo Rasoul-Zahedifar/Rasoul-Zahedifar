@@ -101,6 +101,6 @@ var Rasoul = { // I am a variable rather than a constant.
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rasoul-Zahedifar&theme=dark&v=2" width="700" />
+<img src="https://streak-stats.demolab.com/?user=Rasoul-Zahedifar&theme=dark&v=2" width="700" />
 
 </div>
